@@ -3,14 +3,6 @@
   sub: 
     - name: 股票
       links:
-        - title: 115blog
-          url: https://115blog.com
-          logo: /assets/images/logo/115blog.png
-          description: 115blog
-        - title: 晨星咨询
-          url: https://www.morningstar.cn/main/default.aspx
-          logo: /assets/images/logo/morningstar.ico
-          description: 晨星咨询
         - title: 爱问财
           url: http://iwencai.com/unifiedwap/result?w=A%E8%82%A1%E5%B8%82%E5%80%BC%E6%8E%92%E8%A1%8C&querytype=stock
           logo: /assets/images/logo/aiwencai.ico
@@ -23,56 +15,20 @@
           url: http://stockpage.10jqka.com.cn/
           logo: /assets/images/logo/tonghuashun.ico
           description: 同花顺个股网 
-        - title: 天天基金
-          url: https://fund.eastmoney.com/
-          logo: /assets/images/logo/tiantianjijin.ico
-          description: 天天基金 
         - title: 巨潮资讯网
           url: http://www.cninfo.com.cn/new/index
           logo: /assets/images/logo/juchaozixun.ico
           description: 巨潮资讯网 
     - name: 基金
       links:
-        - title: 115blog
-          url: https://115blog.com
-          logo: /assets/images/logo/115blog.png
-          description: 115blog
-        - title: 我的常用网站列表
-          url: https://115blog.com/posts/%E6%88%91%E7%9A%84%E5%B8%B8%E7%94%A8%E7%BD%91%E7%AB%99/
-          logo: /assets/images/logo/115blog.png
-          description: 我的常用网站列表
-        - title: Hostloc
-          logo: /assets/images/logo/hostloc.ico
-          url: https://hostloc.com/forum-45-1.html
-          description: Hostloc
-        - title: 滴答清单
-          logo: /assets/images/logo/dida.ico
-          url: https://www.dida365.com/
-          description: 滴答清单
-        - title: 富贵论坛
-          logo: /assets/images/logo/fugui.ico
-          url: https://www.fglt.cn/forum.php
-          description: 富贵论坛
-        - title: 126邮箱
-          url: https://mail.126.com/
-          logo: /assets/images/logo/126mail.png
-          description: 126邮箱
-        - title: markdown语法
-          url: https://xianbai.me/learn-md/index.html
-          logo: /assets/images/logo/markdown.ico
-          description: markdown语法
-        - title: 在线PS
-          url: https://www.photopea.com/
-          logo: /assets/images/logo/zaixianps.png
-          description: 在线PS
-        - title: BT网站收集
-          url: https://115blog.com/posts/BT%E7%BD%91%E7%AB%99/
-          logo: /assets/images/logo/xueqiu.png
-          description: BT网站收集
-        - title: 离线下载服务
-          url: https://115blog.com/posts/%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD%E6%9C%8D%E5%8A%A1/
-          logo: /assets/images/logo/xueqiu.png
-          description: 离线下载服务         
+        - title: 天天基金
+          url: https://fund.eastmoney.com/
+          logo: /assets/images/logo/tiantianjijin.ico
+          description: 天天基金       
+        - title: 晨星咨询
+          url: https://www.morningstar.cn/main/default.aspx
+          logo: /assets/images/logo/morningstar.ico
+          description: 晨星咨询
     - name: 债券
       links:
         - title: 115blog
