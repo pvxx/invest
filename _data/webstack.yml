@@ -90,7 +90,7 @@
           description: 萝卜投研
         - title: 财联社
           url: https://www.cls.cn/
-          logo: /assets/images/logo/cailianshe.ico
+          logo: /assets/images/logo/cailianshe.png
           description: 财联社
 
     - name: 基金
@@ -117,7 +117,7 @@
           description: 好买基金网
         - title: 中国基金网
           url: http://www.chinafund.cn/
-          logo: /assets/images/logo/chinafound.png
+          logo: /assets/images/logo/chinafound.ico
           description: 中国基金网
         - title: 蛋卷基金
           url: https://danjuanfunds.com/
