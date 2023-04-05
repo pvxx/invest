@@ -1,6 +1,40 @@
-- name: 经常访问
+- name: 投资理财
   icon: linecons-star
   sub: 
+    - name: 基金
+      links:
+        - title: 天天基金
+          url: https://fund.eastmoney.com/
+          logo: /assets/images/logo/tiantianjijin.ico
+          description: 天天基金       
+        - title: 晨星咨询
+          url: https://www.morningstar.cn/main/default.aspx
+          logo: /assets/images/logo/morningstar.ico
+          description: 晨星咨询
+        - title: 中证指数
+          url: https://www.csindex.com.cn/#/
+          logo: /assets/images/logo/zhongzhengzhishu.ico
+          description: 中证指数
+        - title: 且慢
+          url: https://qieman.com/
+          logo: /assets/images/logo/qieman.ico
+          description: 且慢
+        - title: 好买基金网
+          url: https://www.howbuy.com/
+          logo: /assets/images/logo/haomai.png
+          description: 好买基金网
+        - title: 中国基金网
+          url: http://www.chinafund.cn/
+          logo: /assets/images/logo/chinafound.ico
+          description: 中国基金网
+        - title: 蛋卷基金
+          url: https://danjuanfunds.com/
+          logo: /assets/images/logo/danjuanjijin.ico
+          description: 蛋卷基金
+        - title: 集思录
+          url: https://www.jisilu.cn/
+          logo: /assets/images/logo/jisilu.ico
+          description: 集思录
     - name: 股票
       links:
         - title: 爱问财
@@ -150,11 +184,10 @@
           url: https://vip.stock.finance.sina.com.cn/mkt/
           logo: /assets/images/logo/xinalngcaijing.ico
           description: 新浪财经
-        - title: 新浪财经
-          url: https://vip.stock.finance.sina.com.cn/mkt/
-          logo: /assets/images/logo/xinalngcaijing.ico
-          description: 新浪财经
-
+        - title: 腾讯财经
+          url: https://stockapp.finance.qq.com/mstats/#
+          logo: /assets/images/logo/qiezhiku.ico
+          description: 腾讯财经
         - title: 萝卜投研
           url: https://robo.datayes.com/
           logo: /assets/images/logo/luobo.ico
@@ -163,44 +196,59 @@
           url: https://www.cls.cn/
           logo: /assets/images/logo/cailianshe.png
           description: 财联社
-
-    - name: 基金
-      links:
-        - title: 天天基金
-          url: https://fund.eastmoney.com/
-          logo: /assets/images/logo/tiantianjijin.ico
-          description: 天天基金       
-        - title: 晨星咨询
-          url: https://www.morningstar.cn/main/default.aspx
-          logo: /assets/images/logo/morningstar.ico
-          description: 晨星咨询
-        - title: 中证指数
-          url: https://www.csindex.com.cn/#/
-          logo: /assets/images/logo/zhongzhengzhishu.ico
-          description: 中证指数
-        - title: 且慢
-          url: https://qieman.com/
-          logo: /assets/images/logo/qieman.ico
-          description: 且慢
-        - title: 好买基金网
-          url: https://www.howbuy.com/
-          logo: /assets/images/logo/haomai.png
-          description: 好买基金网
-        - title: 中国基金网
-          url: http://www.chinafund.cn/
-          logo: /assets/images/logo/chinafound.ico
-          description: 中国基金网
-        - title: 蛋卷基金
-          url: https://danjuanfunds.com/
-          logo: /assets/images/logo/danjuanjijin.ico
-          description: 蛋卷基金
-        - title: 集思录
-          url: https://www.jisilu.cn/
-          logo: /assets/images/logo/jisilu.ico
-          description: 集思录
     - name: 债券
       links:
-        - title: 115blog
-          url: https://115blog.com
-          logo: /assets/images/logo/115blog.png
-          description: 115blog
+        - title: 和讯债券
+          url: http://bond.hexun.com/
+          logo: /assets/images/logo/hexunzhaiquan.ico
+          description: 和讯债券
+        - title: 东方财富债券
+          url: https://bond.eastmoney.com/
+          logo: /assets/images/logo/dongfnagcaifuzhaiquan.ico
+          description: 东方财富债券
+        - title: 地方政府债券信息公开
+          url: http://www.celma.org.cn/
+          logo: /assets/images/logo/difangzhaiquan.png
+          description: 地方政府债券信息公开
+        - title: 金融界
+          url: http://bond.jrj.com.cn/
+          logo: /assets/images/logo/jinrongjie.png
+          description: 金融界
+
+- name: 股票
+  icon: linecons-doc
+  sub: 
+    - name: VPS
+      links:
+        - title: 搬瓦工
+          url: https://bandwagonhost.com/
+          logo: /assets/images/logo/banwagong.png
+          description: 搬瓦工
+
+- name: 债券
+  icon: linecons-thumbs-up
+  sub: 
+    - name: 开发资源
+      links:
+        - title: Vscode在线版本
+          url: https://vscode.dev/
+          logo: /assets/images/logo/vscode.ico
+          description: Vscode在线版本
+- name: 数据研究
+  icon: linecons-user
+  sub: 
+    - name: 音乐网站
+      links:
+        - title: 网易音乐
+          logo: /assets/images/logo/wangyi.ico
+          url: https://music.163.com/
+          description: 腾讯视频
+- name: 其它
+  icon: linecons-pencil
+  sub: 
+    - name: 邮箱
+      links:
+#        - title: 126邮箱
+#          url: https://mail.126.com/
+#          logo: /assets/images/logo/126mail.png
+#          description: 126邮箱
