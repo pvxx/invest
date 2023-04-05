@@ -98,10 +98,7 @@
           url: https://www.questmobile.com.cn/
           logo: /assets/images/logo/questionmobile.ico
           description: QuestMobile
-        - title: 银行利率查询
-          url: https://bank.cngold.org/yhckll/
-          logo: /assets/images/logo/cunkunlilvchx.ico
-          description: 银行利率查询
+
         - title: 英为财情
           url: https://cn.investing.com/
           logo: /assets/images/logo/yingweicaiqing.ico
@@ -184,8 +181,6 @@
           logo: /assets/images/logo/taoguba.ico
           description: 淘股吧
 
-
-
     - name: 债券
       links:
         - title: 和讯债券
@@ -208,6 +203,18 @@
           url: https://www.chinabond.com.cn/
           logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
           description: 中国债券信息网
+    - name: 工具
+      links:
+        - title: 银行利率查询
+          url: https://bank.cngold.org/yhckll/
+          logo: /assets/images/logo/cunkunlilvchx.ico
+          description: 银行利率查询
+        - title: 十年前国债查询
+          url: https://cn.investing.com/rates-bonds/china-10-year-bond-yield
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 十年前国债查询
+
+
     - name: 行业数据
       links:
         - title: 国家统计局
