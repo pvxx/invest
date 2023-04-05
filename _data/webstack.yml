@@ -66,7 +66,10 @@
           url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
           logo: /assets/images/logo/yinbaojianhui.ico
           description: 银保监会
-
+        - title: 财政部
+          url: http://www.mof.gov.cn/index.htm
+          logo: /assets/images/logo/caizhengbu.ico
+          description: 财政部
 
 
         - title: 萝卜投研
