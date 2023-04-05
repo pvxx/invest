@@ -1,6 +1,13 @@
 - name: 投资理财
   icon: linecons-star
   sub: 
+    - name: 经常访问
+      links:
+        # - title: 天天基金
+        #   url: https://fund.eastmoney.com/
+        #   logo: /assets/images/logo/tiantianjijin.ico
+        #   description: 天天基金 
+
     - name: 基金
       links:
         - title: 天天基金
@@ -144,6 +151,41 @@
           url: https://www.cls.cn/
           logo: /assets/images/logo/cailianshe.ico
           description: 财联社
+        - title: 乌龟量化
+          url: https://wglh.com/
+          logo: /assets/images/logo/wuguilianghua.ico
+          description: 乌龟量化
+        - title: 乐咕乐股网
+          url: https://legulegu.com/
+          logo: /assets/images/logo/legulegu.ico
+          description: 乐咕乐股网
+        - title: 投资数据网
+          url: https://www.touzid.com/
+          logo: /assets/images/logo/touzishujkw.png
+          description: 投资数据网
+        - title: 理杏仁
+          url: https://www.lixinger.com/
+          logo: /assets/images/logo/lixingren.ico
+          description: 理杏仁
+        - title: 金十数据
+          url: https://www.jin10.com/
+          logo: /assets/images/logo/jinshishuju.ico
+          description: 金十数据
+        - title: 华尔街见闻
+          url: https://wallstreetcn.com/
+          logo: /assets/images/logo/huawejiejianwen.png
+          description: 华尔街见闻
+        - title: 天才股票网
+          url: http://www.11159.com/
+          logo: /assets/images/logo/tiancaigu.ico
+          description: 天才股票网
+        - title: 淘股吧
+          url: https://www.taoguba.com.cn/
+          logo: /assets/images/logo/taoguba.ico
+          description: 淘股吧
+
+
+
     - name: 债券
       links:
         - title: 和讯债券
@@ -216,6 +258,12 @@
           url: https://www.ndrc.gov.cn/
           logo: /assets/images/logo/fagaiwei.ico
           description: 发改委
+        - title: 国证指数
+          url: http://www.cnindex.com.cn/
+          logo: /assets/images/logo/guozhengzhishu.ico
+          description: 国证指数
+
+
 # - name: 股票
 #   icon: linecons-doc
 #   sub: 
