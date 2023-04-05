@@ -213,7 +213,10 @@
           url: https://cn.investing.com/rates-bonds/china-10-year-bond-yield
           logo: /assets/images/logo/yingweicaiqing.ico
           description: 十年前国债查询
-
+        - title: 雪球指数估值
+          url: https://danjuanfunds.com/djmodule/value-center?channel=1300100141
+          logo: /assets/images/logo/xueqiu.png
+          description: 雪球指数估值
 
     - name: 行业数据
       links:
