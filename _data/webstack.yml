@@ -19,6 +19,15 @@
           url: http://www.cninfo.com.cn/new/index
           logo: /assets/images/logo/juchaozixun.ico
           description: 巨潮资讯网 
+        - title: 萝卜投研
+          url: https://robo.datayes.com/
+          logo: /assets/images/logo/luobo.ico
+          description: 萝卜投研
+        - title: 财联社
+          url: https://www.cls.cn/
+          logo: /assets/images/logo/cailianshe.ico
+          description: 财联社
+
     - name: 基金
       links:
         - title: 天天基金
@@ -29,6 +38,30 @@
           url: https://www.morningstar.cn/main/default.aspx
           logo: /assets/images/logo/morningstar.ico
           description: 晨星咨询
+        - title: 中证指数
+          url: https://www.csindex.com.cn/#/
+          logo: /assets/images/logo/zhongzhengzhishu.ico
+          description: 中证指数
+        - title: 且慢
+          url: https://qieman.com/
+          logo: /assets/images/logo/qieman.ico
+          description: 且慢
+        - title: 好买基金网
+          url: https://www.howbuy.com/
+          logo: /assets/images/logo/haomai.png
+          description: 好买基金网
+        - title: 中国基金网
+          url: http://www.chinafund.cn/
+          logo: /assets/images/logo/chinafound.png
+          description: 中国基金网
+        - title: 蛋卷基金
+          url: https://danjuanfunds.com/
+          logo: /assets/images/logo/danjuanjijin.ico
+          description: 蛋卷基金
+        - title: 集思录
+          url: https://www.jisilu.cn/
+          logo: /assets/images/logo/jisilu.ico
+          description: 集思录
     - name: 债券
       links:
         - title: 115blog
