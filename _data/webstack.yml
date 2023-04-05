@@ -142,7 +142,7 @@
           description: 萝卜投研
         - title: 财联社
           url: https://www.cls.cn/
-          logo: /assets/images/logo/cailianshe.png
+          logo: /assets/images/logo/cailianshe.ico
           description: 财联社
     - name: 债券
       links:
