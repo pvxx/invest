@@ -18,7 +18,57 @@
         - title: 巨潮资讯网
           url: http://www.cninfo.com.cn/new/index
           logo: /assets/images/logo/juchaozixun.ico
-          description: 巨潮资讯网 
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网 
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网 
+        - title: 慧博资讯
+          url: http://www.hibor.net/
+          logo: /assets/images/logo/bohuizixun.ico
+          description: 慧博资讯 
+        - title: 看财报
+          url: https://www.kancaibao.com/
+          logo: /assets/images/logo/kancaibao.ico
+          description: 看财报 
+        - title: 投资导航
+          url: http://value500.com/
+          logo: /assets/images/logo/touzidaohang.ico
+          description: 投资导航 
+        - title: 国家统计局
+          url: http://www.stats.gov.cn/
+          logo: /assets/images/logo/guojiatongji.ico
+          description: 国家统计局 
+        - title: 上海证券交易所
+          url: http://www.sse.com.cn/
+          logo: /assets/images/logo/shanghaizhengquanjiaoyisuo.ico
+          description: 上海证券交易所 
+        - title: 深圳证券交易所
+          url: http://www.szse.cn/
+          logo: /assets/images/logo/shenzhenzhengquan.ico
+          description: 深圳证券交易所 
+        - title: 香港交易所
+          url: https://www.hkex.com.hk/?sc_lang=zh-HK
+          logo: /assets/images/logo/xianggangjiaoyisuo.png
+          description: 香港交易所 
+        - title: 中国⼈⺠银⾏
+          url: http://www.pbc.gov.cn/
+          logo: /assets/images/logo/zhongguorenminyinhang.ico
+          description: 中国⼈⺠银⾏ 
+        - title: 国家外汇管理局
+          url: http://www.safe.gov.cn/
+          logo: /assets/images/logo/waihuiguanli.ico
+          description: 国家外汇管理局 
+        - title: 银保监会
+          url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
+          logo: /assets/images/logo/yinbaojianhui.ico
+          description: 银保监会
+
+
+
         - title: 萝卜投研
           url: https://robo.datayes.com/
           logo: /assets/images/logo/luobo.ico
