@@ -90,6 +90,35 @@
           url: http://www.csrc.gov.cn/
           logo: /assets/images/logo/zhengjianhui1.ico
           description: 证监会
+        - title: 产业信息网
+          url: https://www.chyxx.com/
+          logo: /assets/images/logo/chanyexinxi.ico
+          description: 产业信息网
+        - title: 企鹅智库
+          url: https://re.qq.com/
+          logo: /assets/images/logo/qiezhiku.ico
+          description: 企鹅智库
+        - title: QuestMobile
+          url: https://www.questmobile.com.cn/
+          logo: /assets/images/logo/questionmobile.ico
+          description: QuestMobile
+        - title: 银行利率查询
+          url: https://bank.cngold.org/yhckll/
+          logo: /assets/images/logo/cunkunlilvchx.ico
+          description: 银行利率查询
+        - title: 英为财情
+          url: https://cn.investing.com/
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 英为财情
+        - title: 买购网
+          url: https://www.maigoo.com/
+          logo: /assets/images/logo/maigouwang.ico
+          description: 买购网
+        - title: 中财网
+          url: https://data.cfi.cn/cfidata.aspx
+          logo: /assets/images/logo/zhongcaiwang.ico
+          description: 中财网
+
 
 
 
