@@ -68,42 +68,7 @@
           url: https://www.kancaibao.com/
           logo: /assets/images/logo/kancaibao.ico
           description: 看财报 
-        - title: 投资导航
-          url: http://value500.com/
-          logo: /assets/images/logo/touzidaohang.ico
-          description: 投资导航 
-        - title: 国家统计局
-          url: http://www.stats.gov.cn/
-          logo: /assets/images/logo/guojiatongji.ico
-          description: 国家统计局 
-        - title: 上海证券交易所
-          url: http://www.sse.com.cn/
-          logo: /assets/images/logo/shanghaizhengquanjiaoyisuo.ico
-          description: 上海证券交易所 
-        - title: 深圳证券交易所
-          url: http://www.szse.cn/
-          logo: /assets/images/logo/shenzhenzhengquan.ico
-          description: 深圳证券交易所 
-        - title: 香港交易所
-          url: https://www.hkex.com.hk/?sc_lang=zh-HK
-          logo: /assets/images/logo/xianggangjiaoyisuo.png
-          description: 香港交易所 
-        - title: 中国⼈⺠银⾏
-          url: http://www.pbc.gov.cn/
-          logo: /assets/images/logo/zhongguorenminyinhang.ico
-          description: 中国⼈⺠银⾏ 
-        - title: 国家外汇管理局
-          url: http://www.safe.gov.cn/
-          logo: /assets/images/logo/waihuiguanli.ico
-          description: 国家外汇管理局 
-        - title: 银保监会
-          url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
-          logo: /assets/images/logo/yinbaojianhui.ico
-          description: 银保监会
-        - title: 财政部
-          url: http://www.mof.gov.cn/index.htm
-          logo: /assets/images/logo/caizhengbu.ico
-          description: 财政部
+
         - title: 中国理财网
           url: https://www.chinawealth.com.cn/zzlc/index.shtml
           logo: /assets/images/logo/zhongguolicaiwang.ico
@@ -113,14 +78,7 @@
           url: https://www.ninwin.cn/
           logo: /assets/images/logo/ningwen.ico
           description: 宁稳网
-        - title: 中国证券登记结算
-          url: http://www.chinaclear.cn/
-          logo: /assets/images/logo/zhongguozhengquanjiesuo.png
-          description: 中国证券登记结算
-        - title: 证监会
-          url: http://www.csrc.gov.cn/
-          logo: /assets/images/logo/zhengjianhui1.ico
-          description: 证监会
+
         - title: 产业信息网
           url: https://www.chyxx.com/
           logo: /assets/images/logo/chanyexinxi.ico
@@ -149,14 +107,7 @@
           url: https://data.cfi.cn/cfidata.aspx
           logo: /assets/images/logo/zhongcaiwang.ico
           description: 中财网
-        - title: 中国金融期货交易所
-          url: http://www.cffex.com.cn/
-          logo: /assets/images/logo/cffexlogo-new.png
-          description: 中国金融期货交易所
-        - title: 发改委
-          url: https://www.ndrc.gov.cn/
-          logo: /assets/images/logo/fagaiwei.ico
-          description: 发改委
+
         - title: 黄金网
           url: http://gold.cnfol.com/
           logo: /assets/images/logo/huangjinwang.png
@@ -215,6 +166,56 @@
           url: https://www.chinabond.com.cn/
           logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
           description: 中国债券信息网
+    - name: 政府网站统计数据
+      links:
+        - title: 国家统计局
+          url: http://www.stats.gov.cn/
+          logo: /assets/images/logo/guojiatongji.ico
+          description: 国家统计局 
+        - title: 上海证券交易所
+          url: http://www.sse.com.cn/
+          logo: /assets/images/logo/shanghaizhengquanjiaoyisuo.ico
+          description: 上海证券交易所 
+        - title: 深圳证券交易所
+          url: http://www.szse.cn/
+          logo: /assets/images/logo/shenzhenzhengquan.ico
+          description: 深圳证券交易所 
+        - title: 香港交易所
+          url: https://www.hkex.com.hk/?sc_lang=zh-HK
+          logo: /assets/images/logo/xianggangjiaoyisuo.png
+          description: 香港交易所 
+        - title: 中国⼈⺠银⾏
+          url: http://www.pbc.gov.cn/
+          logo: /assets/images/logo/zhongguorenminyinhang.ico
+          description: 中国⼈⺠银⾏ 
+        - title: 国家外汇管理局
+          url: http://www.safe.gov.cn/
+          logo: /assets/images/logo/waihuiguanli.ico
+          description: 国家外汇管理局 
+        - title: 银保监会
+          url: https://www.cbirc.gov.cn/cn/view/pages/index/index.html
+          logo: /assets/images/logo/yinbaojianhui.ico
+          description: 银保监会
+        - title: 财政部
+          url: http://www.mof.gov.cn/index.htm
+          logo: /assets/images/logo/caizhengbu.ico
+          description: 财政部
+        - title: 中国证券登记结算
+          url: http://www.chinaclear.cn/
+          logo: /assets/images/logo/zhongguozhengquanjiesuo.png
+          description: 中国证券登记结算
+        - title: 证监会
+          url: http://www.csrc.gov.cn/
+          logo: /assets/images/logo/zhengjianhui1.ico
+          description: 证监会
+        - title: 中国金融期货交易所
+          url: http://www.cffex.com.cn/
+          logo: /assets/images/logo/cffexlogo-new.png
+          description: 中国金融期货交易所
+        - title: 发改委
+          url: https://www.ndrc.gov.cn/
+          logo: /assets/images/logo/fagaiwei.ico
+          description: 发改委
 # - name: 股票
 #   icon: linecons-doc
 #   sub: 
