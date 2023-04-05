@@ -78,7 +78,10 @@
           url: https://www.chinabond.com.cn/
           logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
           description: 中国债券信息网
-
+        - title: 宁稳网
+          url: https://www.ninwin.cn/
+          logo: /assets/images/logo/ningwen.ico
+          description: 宁稳网
 
 
         - title: 萝卜投研
