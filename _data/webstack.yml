@@ -118,9 +118,42 @@
           url: https://data.cfi.cn/cfidata.aspx
           logo: /assets/images/logo/zhongcaiwang.ico
           description: 中财网
-
-
-
+        - title: 中国金融期货交易所
+          url: http://www.cffex.com.cn/
+          logo: /assets/images/logo/cffexlogo-new.png
+          description: 中国金融期货交易所
+        - title: 发改委
+          url: https://www.ndrc.gov.cn/
+          logo: /assets/images/logo/fagaiwei.ico
+          description: 发改委
+        - title: 黄金网
+          url: http://gold.cnfol.com/
+          logo: /assets/images/logo/huangjinwang.png
+          description: 黄金网
+        - title: 艾瑞网
+          url: https://report.iresearch.cn/
+          logo: /assets/images/logo/airuiwang.ico
+          description: 艾瑞网
+        - title: 搜狐股票
+          url: https://q.stock.sohu.com/
+          logo: /assets/images/logo/sohugup.ico
+          description: 搜狐股票
+        - title: 凤凰财经
+          url: https://finance.ifeng.com/
+          logo: /assets/images/logo/fenghuangcaijing.ico
+          description: 凤凰财经
+        - title: 证券之星
+          url: https://www.stockstar.com/
+          logo: /assets/images/logo/zhengquanzhixing.ico
+          description: 证券之星
+        - title: 新浪财经
+          url: https://vip.stock.finance.sina.com.cn/mkt/
+          logo: /assets/images/logo/xinalngcaijing.ico
+          description: 新浪财经
+        - title: 新浪财经
+          url: https://vip.stock.finance.sina.com.cn/mkt/
+          logo: /assets/images/logo/xinalngcaijing.ico
+          description: 新浪财经
 
         - title: 萝卜投研
           url: https://robo.datayes.com/
