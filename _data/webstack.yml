@@ -3,6 +3,37 @@
   sub: 
     - name: 经常访问
       links:
+        - title: 天天基金
+          url: https://fund.eastmoney.com/
+          logo: /assets/images/logo/tiantianjijin.ico
+          description: 天天基金       
+        - title: 晨星咨询
+          url: https://www.morningstar.cn/main/default.aspx
+          logo: /assets/images/logo/morningstar.ico
+          description: 晨星咨询
+        - title: 爱问财
+          url: http://iwencai.com/unifiedwap/result?w=A%E8%82%A1%E5%B8%82%E5%80%BC%E6%8E%92%E8%A1%8C&querytype=stock
+          logo: /assets/images/logo/aiwencai.ico
+          description: 爱问财
+        - title: 雪球
+          url: https://xueqiu.com/
+          logo: /assets/images/logo/xueqiu.png
+          description: 雪球
+        - title: 同花顺个股网
+          url: http://stockpage.10jqka.com.cn/
+          logo: /assets/images/logo/tonghuashun.ico
+          description: 同花顺个股网 
+        - title: 巨潮资讯网
+          url: http://www.cninfo.com.cn/new/index
+          logo: /assets/images/logo/juchaozixun.ico
+        - title: 东方财富网
+          url: https://www.eastmoney.com/
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网 
+        - title: 英为财情
+          url: https://cn.investing.com/
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 英为财情
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
         #   logo: /assets/images/logo/tiantianjijin.ico
@@ -63,10 +94,6 @@
           url: https://www.eastmoney.com/
           logo: /assets/images/logo/dongfangcaifu.png
           description: 东方财富网 
-        - title: 东方财富网
-          url: https://www.eastmoney.com/
-          logo: /assets/images/logo/dongfangcaifu.png
-          description: 东方财富网 
         - title: 慧博资讯
           url: http://www.hibor.net/
           logo: /assets/images/logo/bohuizixun.ico
@@ -99,10 +126,7 @@
           logo: /assets/images/logo/questionmobile.ico
           description: QuestMobile
 
-        - title: 英为财情
-          url: https://cn.investing.com/
-          logo: /assets/images/logo/yingweicaiqing.ico
-          description: 英为财情
+
         - title: 买购网
           url: https://www.maigoo.com/
           logo: /assets/images/logo/maigouwang.png
@@ -112,10 +136,7 @@
           logo: /assets/images/logo/zhongcaiwang.ico
           description: 中财网
 
-        - title: 黄金网
-          url: http://gold.cnfol.com/
-          logo: /assets/images/logo/huangjinwang.png
-          description: 黄金网
+
         - title: 艾瑞网
           url: https://report.iresearch.cn/
           logo: /assets/images/logo/airuiwang.ico
@@ -272,7 +293,10 @@
           url: http://www.cnindex.com.cn/
           logo: /assets/images/logo/guozhengzhishu.ico
           description: 国证指数
-
+        - title: 黄金网
+          url: http://gold.cnfol.com/
+          logo: /assets/images/logo/huangjinwang.png
+          description: 黄金网
 
 # - name: 股票
 #   icon: linecons-doc
