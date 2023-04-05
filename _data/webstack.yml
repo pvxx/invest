@@ -215,39 +215,39 @@
           logo: /assets/images/logo/jinrongjie.png
           description: 金融界
 
-- name: 股票
-  icon: linecons-doc
-  sub: 
-    - name: VPS
-      links:
-        - title: 搬瓦工
-          url: https://bandwagonhost.com/
-          logo: /assets/images/logo/banwagong.png
-          description: 搬瓦工
+# - name: 股票
+#   icon: linecons-doc
+#   sub: 
+#     - name: VPS
+#       links:
+#         - title: 搬瓦工
+#           url: https://bandwagonhost.com/
+#           logo: /assets/images/logo/banwagong.png
+#           description: 搬瓦工
 
-- name: 债券
-  icon: linecons-thumbs-up
-  sub: 
-    - name: 开发资源
-      links:
-        - title: Vscode在线版本
-          url: https://vscode.dev/
-          logo: /assets/images/logo/vscode.ico
-          description: Vscode在线版本
-- name: 数据研究
-  icon: linecons-user
-  sub: 
-    - name: 音乐网站
-      links:
-        - title: 网易音乐
-          logo: /assets/images/logo/wangyi.ico
-          url: https://music.163.com/
-          description: 腾讯视频
-- name: 其它
-  icon: linecons-pencil
-  sub: 
-    - name: 邮箱
-      links:
+# - name: XX
+#   icon: linecons-thumbs-up
+#   sub: 
+#     - name: 开发资源
+#       links:
+#         - title: Vscode在线版本
+#           url: https://vscode.dev/
+#           logo: /assets/images/logo/vscode.ico
+#           description: Vscode在线版本
+# - name: 数据研究
+#   icon: linecons-user
+#   sub: 
+#     - name: 音乐网站
+#       links:
+#         - title: 网易音乐
+#           logo: /assets/images/logo/wangyi.ico
+#           url: https://music.163.com/
+#           description: 腾讯视频
+# - name: 其它
+#   icon: linecons-pencil
+#   sub: 
+#     - name: 邮箱
+#       links:
 #        - title: 126邮箱
 #          url: https://mail.126.com/
 #          logo: /assets/images/logo/126mail.png
