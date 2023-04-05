@@ -166,7 +166,7 @@
           url: https://www.chinabond.com.cn/
           logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
           description: 中国债券信息网
-    - name: 政府网站统计数据
+    - name: 行业数据
       links:
         - title: 国家统计局
           url: http://www.stats.gov.cn/
