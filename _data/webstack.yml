@@ -82,6 +82,15 @@
           url: https://www.ninwin.cn/
           logo: /assets/images/logo/ningwen.ico
           description: 宁稳网
+        - title: 中国证券登记结算
+          url: http://www.chinaclear.cn/
+          logo: /assets/images/logo/zhongguozhengquanjiesuo.png
+          description: 中国证券登记结算
+        - title: 证监会
+          url: http://www.csrc.gov.cn/
+          logo: /assets/images/logo/zhengjianhui1.ico
+          description: 证监会
+
 
 
         - title: 萝卜投研
