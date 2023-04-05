@@ -108,10 +108,7 @@
           url: https://www.chinawealth.com.cn/zzlc/index.shtml
           logo: /assets/images/logo/zhongguolicaiwang.ico
           description: 中国理财网
-        - title: 中国债券信息网
-          url: https://www.chinabond.com.cn/
-          logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
-          description: 中国债券信息网
+
         - title: 宁稳网
           url: https://www.ninwin.cn/
           logo: /assets/images/logo/ningwen.ico
@@ -214,7 +211,10 @@
           url: http://bond.jrj.com.cn/
           logo: /assets/images/logo/jinrongjie.png
           description: 金融界
-
+        - title: 中国债券信息网
+          url: https://www.chinabond.com.cn/
+          logo: /assets/images/logo/zhongguozhaiquanxinxi.ico
+          description: 中国债券信息网
 # - name: 股票
 #   icon: linecons-doc
 #   sub: 
