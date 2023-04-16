@@ -246,7 +246,10 @@
           url: https://www.99fund.com/main/planning/jjgjx/yqsy/index.shtml
           logo: /assets/images/logo/99fund.ico
           description: 汇添富基金收益计算
-
+        - title: 东方财富网投资收益计算
+          url: https://data.eastmoney.com/money/calc/CalcFundSGRG.html
+          logo: /assets/images/logo/dongfangcaifu.png
+          description: 东方财富网投资收益计算
 
 
     - name: 行业数据
