@@ -65,8 +65,14 @@
           url: https://www.marketwatch.com/
           logo: /assets/images/logo/marketwatch.png
           description: marketwatch  
-
-
+        - title: 日本经济新闻
+          url: https://www.nikkei.com/markets/kabu/
+          logo: /assets/images/logo/ribenjingjixinwen1.png
+          description: 日本经济新闻
+        - title: 日本雅虎财经
+          url: https://finance.yahoo.co.jp/
+          logo: /assets/images/logo/jpyahufinance.ico
+          description: 日本雅虎财经
 
 
     - name: 基金
