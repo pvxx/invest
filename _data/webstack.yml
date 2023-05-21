@@ -77,6 +77,16 @@
           url: https://www.google.com/finance/
           logo: /assets/images/logo/googlefinance.ico
           description: Google财经
+        - title: 印度时报
+          url: https://economictimes.indiatimes.com/
+          logo: /assets/images/logo/indianews1.ico
+          description: 印度时报
+        - title: 中国金融信息网-印度
+          url: https://www.cnfin.com/world-xh08/yt/IN/index.shtml
+          logo: /assets/images/logo/chinajinrongxinwiw.ico
+          description: 中国金融信息网-印度
+
+
 
     - name: 基金
       links:
