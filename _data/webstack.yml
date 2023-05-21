@@ -61,7 +61,10 @@
           url: https://wallstreetcn.com/
           logo: /assets/images/logo/huaerjie.png
           description: 华尔街见闻  
-
+        - title: marketwatch
+          url: https://www.marketwatch.com/
+          logo: /assets/images/logo/marketwatch.png
+          description: marketwatch  
 
 
 
