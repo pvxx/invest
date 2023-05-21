@@ -73,7 +73,10 @@
           url: https://finance.yahoo.co.jp/
           logo: /assets/images/logo/jpyahufinance.ico
           description: 日本雅虎财经
-
+        - title: Google财经
+          url: https://www.google.com/finance/
+          logo: /assets/images/logo/googlefinance.ico
+          description: Google财经
 
     - name: 基金
       links:
