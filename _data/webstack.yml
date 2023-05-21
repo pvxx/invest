@@ -39,6 +39,33 @@
         #   logo: /assets/images/logo/tiantianjijin.ico
         #   description: 天天基金 
 
+    - name: 国外投资
+      links:
+        - title: 金融时报
+          url: https://www.ft.com/
+          logo: /assets/images/logo/ftft.jpeg
+          description: 金融时报    
+        - title: 雅虎金融
+          url: https://finance.yahoo.com/
+          logo: /assets/images/logo/yahoo1.ico
+          description: 雅虎金融    
+        - title: TradingView
+          url: https://cn.tradingview.com/
+          logo: /assets/images/logo/tradingview.ico
+          description: TradingView  
+        - title: nasdaq
+          url: https://www.nasdaq.com/
+          logo: /assets/images/logo/nasdaq.ico
+          description: nasdaq  
+        - title: 华尔街见闻
+          url: https://wallstreetcn.com/
+          logo: /assets/images/logo/huaerjie.png
+          description: 华尔街见闻  
+
+
+
+
+
     - name: 基金
       links:
         - title: 天天基金
