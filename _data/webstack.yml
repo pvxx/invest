@@ -34,10 +34,16 @@
           url: https://cn.investing.com/
           logo: /assets/images/logo/yingweicaiqing.ico
           description: 英为财情
+        - title: 各国指数
+          url: https://cn.investing.com/indices/major-indices
+          logo: /assets/images/logo/yingweicaiqing.ico
+          description: 各国指数
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
         #   logo: /assets/images/logo/tiantianjijin.ico
         #   description: 天天基金 
+
+
 
     - name: 国外投资
       links:
