@@ -38,6 +38,11 @@
           url: https://cn.investing.com/indices/major-indices
           logo: /assets/images/logo/yingweicaiqing.ico
           description: 各国指数
+        - title: 同花顺爱基金
+          url: https://trade.5ifund.com/login/loginInit.action?frm=ijijin
+          logo: /assets/images/logo/tonghuashunaijijin.png
+          description: 同花顺爱基金
+          
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
         #   logo: /assets/images/logo/tiantianjijin.ico
