@@ -42,15 +42,22 @@
           url: https://trade.5ifund.com/login/loginInit.action?frm=ijijin
           logo: /assets/images/logo/tonghuashunaijijin.png
           description: 同花顺爱基金
-        - title: 华尔街见闻快讯
-          url: https://wallstreetcn.com/live/us-stock
-          logo: /assets/images/logo/huaerjie.png
-          description: 华尔街见闻快讯            
+         
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
         #   logo: /assets/images/logo/tiantianjijin.ico
         #   description: 天天基金 
 
+    - name: 实时快讯
+      links:
+        - title: 雅虎快讯
+          url: https://finance.yahoo.com/news/
+          logo: /assets/images/logo/yahoo1.ico
+          description: 雅虎快讯 
+        - title: 华尔街见闻快讯
+          url: https://wallstreetcn.com/live/us-stock
+          logo: /assets/images/logo/huaerjie.png
+          description: 华尔街见闻快讯   
 
 
     - name: 国外投资
