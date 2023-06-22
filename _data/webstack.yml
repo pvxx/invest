@@ -6,7 +6,19 @@
         - title: 天天基金
           url: https://fund.eastmoney.com/
           logo: /assets/images/logo/tiantianjijin.ico
-          description: 天天基金       
+          description: 天天基金
+        - title: 同花顺爱基金
+          url: https://trade.5ifund.com/login/loginInit.action?frm=ijijin
+          logo: /assets/images/logo/tonghuashunaijijin.png
+          description: 同花顺爱基金       
+        - title: 嘉信理财
+          url: https://client.schwab.com/clientapps/accounts/summary/
+          logo: /assets/images/logo/jiaxin1.ico
+          description: 嘉信理财         
+        - title: 盈透证券
+          url: https://www.interactivebrokers.com/cn/home.php
+          logo: /assets/images/logo/yingtou1.ico
+          description: 盈透证券 
         - title: 晨星咨询
           url: https://www.morningstar.cn/main/default.aspx
           logo: /assets/images/logo/morningstar.ico
@@ -38,18 +50,8 @@
           url: https://cn.investing.com/indices/major-indices
           logo: /assets/images/logo/yingweicaiqing.ico
           description: 各国指数
-        - title: 同花顺爱基金
-          url: https://trade.5ifund.com/login/loginInit.action?frm=ijijin
-          logo: /assets/images/logo/tonghuashunaijijin.png
-          description: 同花顺爱基金
-        - title: 嘉信理财
-          url: https://client.schwab.com/clientapps/accounts/summary/
-          logo: /assets/images/logo/jiaxin1.ico
-          description: 嘉信理财         
-        - title: 盈透证券
-          url: https://www.interactivebrokers.com/cn/home.php
-          logo: /assets/images/logo/yingtou1.ico
-          description: 盈透证券 
+
+
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
         #   logo: /assets/images/logo/tiantianjijin.ico
