@@ -19,6 +19,10 @@
           url: https://www.interactivebrokers.com/cn/home.php
           logo: /assets/images/logo/yingtou1.ico
           description: 盈透证券 
+        - title: 第一证券
+          url: https://www.firstrade.com/zh-CN
+          logo: /assets/images/logo/firsttrade.ico
+          description: 第一证券 
         - title: 晨星咨询
           url: https://www.morningstar.cn/main/default.aspx
           logo: /assets/images/logo/morningstar.ico
