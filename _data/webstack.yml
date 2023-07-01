@@ -54,7 +54,10 @@
           url: https://cn.investing.com/indices/major-indices
           logo: /assets/images/logo/yingweicaiqing.ico
           description: 各国指数
-
+        - title: 指数估值
+          url: https://simplywall.st/markets/jp
+          logo: /assets/images/logo/indexvalue.ico
+          description: 指数估值
 
         # - title: 天天基金
         #   url: https://fund.eastmoney.com/
